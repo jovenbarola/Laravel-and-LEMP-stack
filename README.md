@@ -4,9 +4,9 @@ Using any cloud hosting provider—Linode, Vultr, DigitalOcean, etc.—this chea
 
 ## Prerequisite
 - [x] Any cloud hosting account that you can create Compute VPS Instance
-- [] Amazon Webservice account with a created EC2 VPS instance (Ubuntu 20 or later is much recommended).
-- [] Linode account with a created virtual server (Ubuntu 20 or later is much recommended).
-- [] DigitalOcean account with a created VPS instance (Ubuntu 20 or later is much recommended).
+- [ ] Amazon Webservice account with a created EC2 VPS instance (Ubuntu 20 or later is much recommended).
+- [ ] Linode account with a created virtual server (Ubuntu 20 or later is much recommended).
+- [ ] DigitalOcean account with a created VPS instance (Ubuntu 20 or later is much recommended).
 - [x] Knowledge on Basic server administration.
 - [x] Git installed on your local machine.
 - [x] A Laravel application hosted on GitHub (e.g., "laravel_yourapp").
